@@ -1,3 +1,5 @@
 User-Agent: *
-Disallow: /
+Allow: /
+Disallow: /carrito
 
+Sitemap: https://bwjewelry.example/sitemap.xml
